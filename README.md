@@ -3,11 +3,13 @@
 </a>
 <br>
 <br>
+
 ## 📈Current Stats
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 <br>
 <br>
+
 ## 📈Technologies I know 
 <br>
 <div style="width: 70%; margin:auto text-align: center;">
@@ -17,6 +19,7 @@
 </div>
 <br>
 <br>
+
 ## 👀Current Overview
 <br>
 - 🌱 I’m currently learning - MERN stack web development
