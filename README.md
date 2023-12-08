@@ -2,10 +2,11 @@
   <img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.png" style="width: 100%; height: auto;" alt="San Juan Mountains">
 </a>
 
+<br>
+<br>
 
-<div style = "margin-top : 20px">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats)
-</div>
+
 
 
 ## 👀Current Overview
