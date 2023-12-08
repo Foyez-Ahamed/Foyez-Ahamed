@@ -17,7 +17,7 @@
 
 <div style="width: 100%; text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" style="width: 100%; height: auto;">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" style="width: 50%; height: auto;">
   </a>
 </div>
 
