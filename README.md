@@ -6,8 +6,9 @@
 <br>
 
 ## 📈Current Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave" style="width: 100%; height: auto;">
+<br>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats) -->
@@ -15,7 +16,8 @@
 
 
 ## 👀Current Overview
-
+<br>
+<br>
 - 🌱 I’m currently learning - MERN stack web development
 - 👯 I’m looking for - Show my skills if get opportunity
 - 🤔 I’m looking for help with - Learn web development for build my skills more.
