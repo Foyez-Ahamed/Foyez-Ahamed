@@ -5,11 +5,17 @@
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats)
+## 📈Current Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats" style="width: 100%; height: auto;">
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats) -->
 
 
 
 ## 👀Current Overview
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
