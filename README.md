@@ -3,6 +3,10 @@
 </a>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave)](https://git.io/streak-stats)
+
+
+## Current Status
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
