@@ -1,5 +1,7 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.png "San Juan Mountains")
 
+<img src="./images/cover.png" width="400" height="100">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
