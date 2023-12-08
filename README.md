@@ -14,10 +14,11 @@
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) -->
-
-<div style="width: 100%; text-align: center;">
+## 📈Technologies I know 
+<br>
+<div style="width: 70%; margin:auto text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills" style="width: 50%; height: auto;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb" alt="My Skills" style="width: 30%; height: auto; text-align: center;">
   </a>
 </div>
 
