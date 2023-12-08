@@ -1,6 +1,4 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.png "San Juan Mountains")
-
-<img src="./images/cover.png" width="400" height="100">
+<img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.png" style="width: 100%; height: auto;" alt="San Juan Mountains">
 
 
 - 🔭 I’m currently working on ...
