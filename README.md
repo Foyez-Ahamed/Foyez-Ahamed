@@ -12,6 +12,53 @@
 <br>
 <br>
 
+## 💻Projects 
+<br>
+
+## - King Gallery (Inventory Management System)
+
+### [Live Link](https://whimsical-pothos-99bd8a.netlify.app/)
+
+## Project Description:
+- Inventory Management System with user roles (manager/admin). Users create/manage shops, handle product CRUD operations. Admins gain insights into all user shops and track overall income. Streamlining business processes with role-based functionalities.
+
+## Technologies Used:
+- ### Frontend : Javascript, React, tailwind css, Firebase
+- ### Backend : node.js, express.js, Jwt token access
+- ### Database : Mongodb
+
+<br>
+
+
+## - Library Management (Library Management System)
+
+### [Live Link](https://extraordinary-horse-d99f79.netlify.app/) 
+
+## Project Description:
+- A React-based web application facilitating user authentication, book exploration, seamless borrowing, and returning. User-friendly interface for efficient book management.
+
+## Technologies Used:
+- #### Frontend : Javascript, React, tailwind css, Firebase
+- #### Backend : node.js, express.js
+- #### Database : Mongodb
+
+<br>
+ 
+## - Automotive Care (E-commerce website)
+
+### [Live Link](https://ubiquitous-nougat-44201a.netlify.app/) 
+
+## Project Description:
+- Revolutionize your car-buying experience with Automotive Care, a React-based car showroom platform. Seamlessly navigate through car categories, make purchases, and manage your acquisitions on the intuitive My Cart page. Elevate your automotive journey with user authentication and private routes for a personalized and secure experience.
+
+## Technologies Used:
+- #### Frontend : Javascript, React, tailwind css, Firebase
+- #### Backend : node.js, express.js
+- #### Database : Mongodb
+
+<br>
+<br>
+
 ## 💻Technologies I know 
 <br>
 <div style="width: 70%; margin: 0 auto; text-align: center; background-color: #2F163C; padding: 20px; border-radius: 10px;">
