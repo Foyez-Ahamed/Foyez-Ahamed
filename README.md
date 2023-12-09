@@ -8,6 +8,8 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 <br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foyez-Ahamed&theme=dark" style="width: 100%; height: auto;">
+<br>
 <br>
 
 ## 💻Technologies I know 
