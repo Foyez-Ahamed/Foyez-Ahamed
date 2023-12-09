@@ -12,9 +12,9 @@
 
 ## 💻Technologies I know 
 <br>
-<div style="width: 70%; margin:auto text-align: center;">
+<div style="width: 70%; margin: 0 auto; text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,mongodb" alt="My Skills" style="width: 50%; height: auto; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,mongodb" alt="My Skills" style="width: 70%; height: auto; text-align: center;">
   </a>
 </div>
 <br>
