@@ -12,7 +12,7 @@
 
 ## 💻Technologies I know 
 <br>
-<div style="width: 70%; margin: 0 auto; text-align: center; background-color: #2c3e50; padding: 20px; border-radius: 10px;">
+<div style="width: 70%; margin: 0 auto; text-align: center; background-color: #2F163C; padding: 20px; border-radius: 10px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,firebase,mongodb" alt="My Skills" style="width: 70%; height: auto; text-align: center;">
   </a>
