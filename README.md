@@ -8,7 +8,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 <br>
-<img src="https://api.githubtrends.io/user/svg/Foyez-Ahamed/repos?time_range=one_year&theme=synthwaves" style="width: 50%; height: auto;">
+<img src="https://api.githubtrends.io/user/svg/Foyez-Ahamed/repos?time_range=one_year&theme=synthwaves&hide_border=true" style="width: 50%; height: auto;">
 <br>
 
 ## 💻Technologies I know 
