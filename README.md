@@ -8,6 +8,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 <br>
+<img src="https://api.githubtrends.io/user/svg/Foyez-Ahamed/repos?time_range=one_year&theme=synthwaves" style="width: 100%; height: auto;">
 <br>
 
 ## 💻Technologies I know 
@@ -25,4 +26,7 @@
 - 🌱 I’m currently learning - MERN stack web development
 - 👯 I’m looking for - Show my skills if get opportunity
 - 🤔 I’m looking for help with - Learn web development for build my skills more.
+
+
+
 
