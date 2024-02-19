@@ -8,7 +8,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=deepblue&hide_border=true" style="width: 100%; height: auto;">
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Foyez-Ahamed}&theme={deepblue}" style="width: 100%; height: auto;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foyez-Ahamed&theme=synthwave" style="width: 100%; height: auto;">
 <br>
 <br>
 
@@ -76,7 +76,7 @@
 - 🤔 I’m looking for help with - Learn web development for build my skills more.
 <br>
 <br>
-<img src="https://api.githubtrends.io/user/svg/Foyez-Ahamed/repos?time_range=one_year&theme=deepblue&hide_border=true" style="width: 40%; height: auto;">
+<img src="https://api.githubtrends.io/user/svg/Foyez-Ahamed/repos?time_range=one_year&theme=synthwaves&hide_border=true" style="width: 40%; height: auto;">
 
 
 
