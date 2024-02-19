@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/foyez-ahamed/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.png" style="width: 100%; height: auto;" alt="San Juan Mountains">
+  <img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover2.png" style="width: 100%; height: auto;" alt="San Juan Mountains">
 </a>
 <br>
 <br>
