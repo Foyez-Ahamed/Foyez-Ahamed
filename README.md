@@ -8,7 +8,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=deepblue&hide_border=true" style="width: 100%; height: auto;">
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foyez-Ahamed&theme=deepblue" style="width: 100%; height: auto;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Foyez-Ahamed}&theme={deepblue}" style="width: 100%; height: auto;">
 <br>
 <br>
 
