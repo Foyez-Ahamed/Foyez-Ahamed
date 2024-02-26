@@ -1,12 +1,12 @@
 <a href="https://www.linkedin.com/in/foyez-ahamed/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.jpg" style="width: 100%; height: auto;" alt="San Juan Mountains">
+  <img src="https://raw.githubusercontent.com/Foyez-Ahamed/Foyez-Ahamed/main/images/cover.jpg
 </a>
 <br>
 <br>
 
 ## 📈Current Stats
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=deepblue&hide_border=true" style="width: 100%; height: auto;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Foyez-Ahamed&theme=synthwave&hide_border=true" style="width: 100%; height: auto;">
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Foyez-Ahamed&theme=synthwave" style="width: 100%; height: auto;">
 <br>
